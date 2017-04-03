@@ -1,6 +1,8 @@
 # Ipython
 .ipynb_checkpoints
 
+# practice exercises
+ex/
 
 # Sys
 .DS_Store
