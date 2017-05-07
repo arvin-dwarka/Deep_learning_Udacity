@@ -1,5 +1,13 @@
 # Ipython
 .ipynb_checkpoints
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Datasets
+*.p
+*.tar.gz
+cifar-10-batches-py
 
 # practice exercises
 ex/
