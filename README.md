@@ -7,3 +7,5 @@ This repository contains projects for Udacity's Deep Learning Program.
 - **P2** - Image Classification
 - **P3** - TV Script Generation
 - **P4** - Language Translation
+- **P5** - Generate Faces
+
